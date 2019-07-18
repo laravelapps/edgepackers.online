@@ -1,0 +1,153 @@
+.img-bg img{margin-bottom: 0px!important;}
+.download-section .download-link {display: block;}
+
+/*fine art moving */
+
+/*.............................................contact........................................... */
+
+#FormBuilder_contact .Inputfields label{display:inline;margin-left:0px!important;}
+.Contact .InputfieldMaxWidth{border:1px solid;border-radius:0px;border-color:#e9e9e9;}
+#Inputfield_subject{border:1px solid;border-radius:0px; width:100%; border-color:#e9e9e9;}
+#FormBuilder_contact #Inputfield_email{border:1px solid;border-radius:0px;width:100%;border-color:#e9e9e9;}
+#FormBuilder_contact #Inputfield_name_1{border:1px solid;border-radius:0px;border-color:#e9e9e9;width:100%;}
+#FormBuilder_contact #Inputfield_phone{border:1px solid;border-radius:0px;padding-right:0em;border-color:#e9e9e9;
+	width:100%;}
+#FormBuilder_contact .input{border:1px solid;}
+#FormBuilder_contact  #wrap_Inputfield_name_1{display:inline-block;width:50%;}
+#FormBuilder_contact #wrap_Inputfield_email{display:inline-block;padding-right:0em;width:50%;}
+#FormBuilder_contact #wrap_Inputfield_phone{display:inline-block;width:50%; padding-right:0em;}
+#FormBuilder_contact #wrap_Inputfield_subject{display:inline-block;padding-top:1em;width:50%;}
+#FormBuilder_contact .ui-widget-content{padding-left: 0em;padding-right:2em;}
+#FormBuilder_contact #FormBuilder_contact.white-background{padding:0em;}
+#FormBuilder_contact #contact_submit{  background-color: #FDB813;
+	padding: 16px 100px!important;margin-top:23px;border:0px!important;margin-bottom:2em;}
+#FormBuilder_contact .ui-widget-content #contact_submit{padding:0em;}
+#FormBuilder_contact .ui-button-text{font-size:2em; line-height: 0;}
+
+.Contact .contact{margin-left:35px; width: -moz-fit-content; width: -webkit-fit-content}
+.Contact .white-background{padding:2em;}
+#FormBuilder_download-form i{display: none;}
+
+ul .tabs-content{padding-top:5em!important;padding-bottom:0!important;}
+
+/.accordion__title{background-color:orange!important;}
+.Careers .case-study .container .row ul{list-style:disc;padding-left:16px;}
+ .case-study .container .row .details-page p{padding-right:2em;}
+  .Careers #triangle-topleft p{text-indent:0;}
+ .Careers .case-study .cs-sidebar h4{color: #2A271E!important; font-weight: 300;
+  border-bottom: 1px solid #000000 !important; padding-bottom: 0.1em; width: -moz-fit-content;
+   width: -webkit-fit-content;}
+  #triangle-topleft p{padding:40px 0 0 8%}
+  .col-md-10.col-sm-10.col-sm-offset-1.text-center.govern > h2{text-align:left!important;}
+  .govern p:first-of-type{text-align:left!important;}
+  .col-md-10.col-sm-10.col-sm-offset-1.text-center.govern > p{text-align:left!important;}
+
+
+/*Request a Quote*/
+
+.con-requote-form .freequote input{border-radius: 4px!important;border: 1px solid #cccccc!important;}
+.con-requote-form .freequote .btn{font-family: 'Roboto'!important; background-color:#FDB813;
+ border-radius: 0px!important; font-size: 1em!important; line-height: 2.5em!important; color: #000;}
+
+
+.thank-you .tymsg h3{font-weight: 300!important;}
+.freequote{background-color: #f2f2f2;}
+.move-planner-week h3{font-size: 2.5em;  line-height: 1.5;}
+.move-planner-week div p:first-child{font-size: 1.4em;}
+.details-page h4{margin: 1.5em 0 0.5em !important;}
+.Contact .branch {margin: 1em 0 0 0;}
+.Move.Planner .events-wrapper .events{margin-left: -105px;}
+.Move.Planner .move-planner-week h3, .Move.Planner .move-planner-week p{font-weight: 300; padding: 10px 0;}
+
+/*Blog*/
+section.comments{padding-top: 0px !important;}
+#CommentForm {margin: 1em auto; width: 68%;}
+#CommentForm h3{text-align: center; font-weight: 300;}
+#CommentForm #CommentForm_form p {display: inline-block; width: 49%;}
+#CommentForm label {display: none;}
+#CommentForm #CommentForm_form p input {width: 90%;}
+#CommentForm input, #CommentForm textarea{background-color: #efefef; border-radius: 0%;}
+#CommentForm #CommentForm_form p.CommentFormSubmit button{color: #000000 !important; font-size: 1.125em !important;
+    font-weight: 500;background-color: #fdb813; padding: 16px 100px !important; border: none; line-height: 1;}
+#CommentForm textarea {display: block; max-width: 100%; width: 100%;}
+#CommentForm #CommentForm_form p.CommentFormText { width: 94%;}
+.social-icons .a2a_kit{padding: 0 2.2em;}
+.CommentPostNote strong{font-weight: 300;}
+.comments h3{font-weight: 300; text-align: center;}
+.comments ul.CommentList.CommentListNormal{width: 68%; margin: auto;}
+.comments ul.CommentList.CommentListNormal .CommentHeader small{margin-left: 1em;}
+.comments ul.CommentList.CommentListNormal .CommentText{background-color: #efefef;}
+.comments ul.CommentList.CommentListNormal .CommentText p{padding: 1em;}
+.blog-post h3, .tips-cover h3, .tip-body h3{font-weight: 300!important; font-size: 2em!important; 
+  padding-bottom: 30px; line-height: 1.2!important;}
+.blog-post p{color: #646464!important; font-weight: 300;}
+.blog-post h4{font-size: 1.5em; font-weight: 300; padding-bottom: 10px; line-height: 1.3em;}
+.News section#blog1{}
+/*.News table thead tr th{text-align: center;}*/
+.case-study .career-overview{float: left;}
+.Form #FormBuilder_download-form label{font-family: "Roboto",sans-serif !important; font-size: 1em !important;
+    font-weight: 300; text-transform: unset;}
+.Form .ui-button { color: #000 !important; font-size: 1.125em; font-weight: 500;}
+.case-study .cs-sidebar h3{padding-bottom: 0.5em; font-weight: 300;}
+.case-study .cs-sidebar div{margin-bottom: 3em;}
+.career-detail .landing-cover-block h3{font-weight: 300;}
+div.blog-cta-btn{margin: 3em 0;}
+div.blog-cta-btn .Request-btn{padding: 1em 3.3em !important;}
+
+footer.footer-4 .form-content p{color: #afafaf;}
+#blog1 table tbody .download-row p{text-align: center;}
+.case-study .cs-sidebar div .Request-btn{padding: 0.5em 1.5em!important; font-weight: 300;}
+
+@media screen and (max-width: 480px){
+  .modal-content1{background-image: unset!important;background-color: #231F20!important;}
+  
+  .social-list{overflow: unset!important;}
+  footer .footer-left .center-text{left: 0!important;}
+  .modal-content1 .close{top: 15px!important;}
+  .Home .mason-title-hp .boxed{padding: 1.5em 2em !important;}
+  .next-move-tab .col-md-2{width: unset!important;}
+  footer .footer-right, .footer-left{padding: 18px!important;}
+  footer .footer-left .special-move{padding-left: 0!important;}
+  #triangle-topleft h1{font-size: 1em; font-weight: 500;}
+  .get-free-padding, .get-free-padding1, .no-padding-section{padding: 0 10px!important;}
+  .Request-btn{padding: 16px 20px!important;}
+  .move-block .two-block{margin: 0!important;}
+  .text-tipblock{font-size: 0.9em!important;}
+  .Contact ul.tabs li{width: 70%!important;}
+  .Contact .tabs-5 .tabs li #tab-br-radius{border-radius: 0!important}
+  .Contact .tabs-container .tabs li{margin: 0!important}
+}
+
+@media screen and (max-width: 640px){
+.background-image-holder.top-100{top: 60px !important;}
+div.blog-cta-btn .Request-btn{padding: 16px 44px !important;}
+.next-prev-block .row div{display: block; float: none;}
+.next-prev-block .row div a{display: block;}
+.next-prev-block .row div:nth-child(2){margin-top: 1em;}
+.a2a_kit a{padding: 0.5em;}
+#CommentForm #CommentForm_form p{width: 100%}
+#CommentForm, #CommentForm #CommentForm_form p input, #CommentForm #CommentForm_form p.CommentFormText
+{width: 100%;}
+#CommentForm #CommentForm_form p .required{margin: 0;}
+#CommentForm #CommentForm_form p.CommentFormSubmit button{padding: none; width: 100%;}
+}
+@media screen and (max-width: 800px){
+#CommentForm, #CommentForm #CommentForm_form p input, #CommentForm #CommentForm_form p.CommentFormText
+{width: 100%;}
+#CommentForm textarea{width: 99%;}
+.next-prev-block .row div a{padding: 16px 71px !important;} 
+.next-prev-block .row{margin: 0;}
+}
+
+
+/*FAQ Section*/
+.faqsec .accordion .accordion__title h4{color: ; font-weight: 400;}
+
+/*Accordion*/
+.accordion li .accordion__content a{padding-bottom: 0!important;}
+
+/*PPC Form Styles*/
+.camp-form .ui-widget-header{display: none;}
+.camp-form{background-color: #FDB813;}
+.camp-form .Inputfield {margin: 10px 0;}
+
